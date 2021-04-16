@@ -13,7 +13,7 @@ Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc. 
 Projects: random album generator, predict housing prices, best classifier model, battle of neighborhoods 
 
-1. What is Data Science?
+1. What is Data Science? Done
 2. Tools for Data Science
 3. Data Science Methodology
 4. Python for Data Science, AI & Development
